@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-"""
-Quick start script for the Diabetes Prediction application
-"""
-
 import sys
 import os
 
