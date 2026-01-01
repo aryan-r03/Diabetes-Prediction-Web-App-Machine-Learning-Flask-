@@ -1,6 +1,5 @@
 """
 Training Script
-Standalone script to train and save the diabetes prediction model
 """
 
 import sys
