@@ -52,7 +52,7 @@ def main():
     # Save model
     model.save_model(args.output)
     
-    print("\n" + "=" * 60)
+    print("\n" + "-" * 60)
     print("TRAINING COMPLETE")
     print("=" * 60)
     print(f"✓ Model accuracy: {accuracy * 100:.2f}%")
