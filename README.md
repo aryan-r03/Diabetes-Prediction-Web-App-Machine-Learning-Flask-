@@ -451,7 +451,7 @@ waitress==2.1.2       # Windows
 </div>
 
 ```bash
-git clone https://github.com/aryan-r03/diabetes-prediction-flask.git
+git clone https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask-flask.git
 cd diabetes-prediction-flask
 ```
 
@@ -2121,25 +2121,25 @@ diabetes_prediction_app/
       <img src="https://img.icons8.com/color/96/000000/bug.png" width="60" height="60" alt="Bug"/>
       <br><b>Report Bugs</b>
       <br>Found an issue?
-      <br><a href="https://github.com/aryan-r03/diabetes-prediction/issues">Open an issue</a>
+      <br><a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask/issues">Open an issue</a>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/idea.png" width="60" height="60" alt="Feature"/>
       <br><b>Suggest Features</b>
       <br>Have an idea?
-      <br><a href="https://github.com/aryan-r03/diabetes-prediction/issues">Share it!</a>
+      <br><a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask/issues">Share it!</a>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/code.png" width="60" height="60" alt="Code"/>
       <br><b>Submit Code</b>
       <br>Improvements ready?
-      <br><a href="https://github.com/aryan-r03/diabetes-prediction/pulls">Send a PR</a>
+      <br><a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask/pulls">Send a PR</a>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/document.png" width="60" height="60" alt="Docs"/>
       <br><b>Improve Docs</b>
       <br>Better explanation?
-      <br><a href="https://github.com/aryan-r03/diabetes-prediction/pulls">Update README</a>
+      <br><a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask/pulls">Update README</a>
     </td>
   </tr>
 </table>
@@ -2382,14 +2382,14 @@ Special thanks to:
 
 **If this project helped you, please consider:**
 
-<a href="https://github.com/aryan-r03/diabetes-prediction">
-  <img src="https://img.shields.io/github/stars/aryan-r03/diabetes-prediction?style=social" alt="GitHub stars"/>
+<a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask">
+  <img src="https://img.shields.io/github/stars/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask?style=social" alt="GitHub stars"/>
 </a>
-<a href="https://github.com/aryan-r03/diabetes-prediction/fork">
-  <img src="https://img.shields.io/github/forks/aryan-r03/diabetes-prediction?style=social" alt="GitHub forks"/>
+<a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask/fork">
+  <img src="https://img.shields.io/github/forks/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask?style=social" alt="GitHub forks"/>
 </a>
-<a href="https://github.com/aryan-r03/diabetes-prediction/watchers">
-  <img src="https://img.shields.io/github/watchers/aryan-r03/diabetes-prediction?style=social" alt="GitHub watchers"/>
+<a href="https://github.com/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask/watchers">
+  <img src="https://img.shields.io/github/watchers/aryan-r03/Diabetes-Prediction-Web-App-Machine-Learning-Flask?style=social" alt="GitHub watchers"/>
 </a>
 
 <br><br>
